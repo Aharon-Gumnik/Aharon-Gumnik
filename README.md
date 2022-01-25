@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning React, redux and javascript :-)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aharon.gumnik@broadcom.com
+- 📫 How to reach me agumnik.dev@gmail.com
 
 <!---
 Aharon-Gumnik/Aharon-Gumnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
